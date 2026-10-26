@@ -1,20 +1,20 @@
-1) 
+1) Запустить приложение https://github.com/anestesia001/carss/tree/main как systemd демон
  ```
 
 ```
-![](https://github.com/matveyframe/Lesson_16/blob/main/app%20status.PNG "Logo Title Text 1")
+![]( "Logo Title Text 1")
 
-2)
+2)Настроить nginx как reverse proxy для этого приложения
  ```
 
 ```
-![](https://github.com/matveyframe/Lesson_16/blob/main/cert%20info.PNG "Logo Title Text 1")
-![](https://github.com/matveyframe/Lesson_16/blob/main/cert%20result.PNG "Logo Title Text 1")
+![]( "Logo Title Text 1")
+![]( "Logo Title Text 1")
 
-3)
-
-```
+3)Написать скрипт для бэкапов БД приложения
 
 ```
-![](https://github.com/matveyframe/Lesson_16/blob/main/app%20statusV2.PNG "Logo Title Text 1")
+
+```
+![]( "Logo Title Text 1")
 
